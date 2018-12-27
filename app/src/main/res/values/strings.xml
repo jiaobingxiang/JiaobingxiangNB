@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">JiaobingxiangNB</string>
+    <string name="string_phone">请输入手机号</string>
+    <string name="string_pass">请输入密码</string>
+    <string name="dl">登录</string>
+    <string name="zc">注册</string>
+    <string name="wczc">完成注册</string>
+</resources>
